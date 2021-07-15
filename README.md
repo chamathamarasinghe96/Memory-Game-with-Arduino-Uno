@@ -33,25 +33,25 @@
 ## Complete Circuit Design
 
 <figure>
-    <img src="images/full_circuit.png" alt="full_circuit" style="width:100%">
+    <img src="images/full_circuit.png" alt="full_circuit" style="width:750%">
     <figcaption align = "center"><b>Fig.5 - Complete Circuit</b></figcaption>
 </figure>
 
 ## Separate Circuit Designs
 
 <figure>
-    <img src="images/LED_Display_circuit.png" alt="LED_Display_circuit" style="width:100%">
+    <img src="images/LED_Display_circuit.png" alt="LED_Display_circuit" style="width:50%">
     <figcaption align = "center"><b>Fig.1 - LED Display Circuit</b></figcaption>
 </figure>
 <figure>
-    <img src="images/LDR_circuit.png" alt="LDR_circuit" style="width:100%">
+    <img src="images/LDR_circuit.png" alt="LDR_circuit" style="width:50%">
     <figcaption align = "center"><b>Fig.2 - LDR Circuit</b></figcaption>
 </figure>
 <figure>
-    <img src="images/SSD_circuit.png" alt="SSD_circuit" style="width:100%">
+    <img src="images/SSD_circuit.png" alt="SSD_circuit" style="width:50%">
     <figcaption align = "center"><b>Fig.3 - SSD Circuit</b></figcaption>
 </figure>
 <figure>
-    <img src="images/Bazzer_and_PushButton_circuit.png" alt="Bazzer_and_PushButton_circuit" style="width:100%">
+    <img src="images/Bazzer_and_PushButton_circuit.png" alt="Bazzer_and_PushButton_circuit" style="width:50%">
     <figcaption align = "center"><b>Fig.4 - Bazzer and PushButton Circuit</b></figcaption>
 </figure>
